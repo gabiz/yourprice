@@ -11,19 +11,28 @@ Demo of core functionality of the YourPrice app:
 
 ## Walkthrough
 
-Includes browsing items for sale, searching, favoriting items, editing posts, checking item details, checking notifications, etc.
-
 ![Walkthrough](Gifs/yourprice-walkthrough.gif)
 
 ## Browse Items for Sale
 
+Includes customized menu item widget.
 
-![Walkthrough](Gifs/yourprice-browse.gif)
+![Browse](Gifs/yourprice-browse.gif)
+
+## Search
+
+![Browse](Gifs/yourprice-search.gif)
 
 
 ## Post Item for Sale
 
+Includes adding effects and filters.
+
 ![Post Item for Sale](Gifs/yourprice-post-item.gif)
+
+## Edit Item
+
+![Edit Item](Gifs/yourprice-edit-item.gif)
 
 ## Registration
 
@@ -33,5 +42,5 @@ Includes browsing items for sale, searching, favoriting items, editing posts, ch
 
 Includes interaction in real-time between buyer and seller with push notifications.
 
-![Registration](Gifs/yourprice-purchase.gif)
+![Purchase](Gifs/yourprice-purchase.gif)
 

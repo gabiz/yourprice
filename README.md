@@ -15,6 +15,12 @@ Includes browsing items for sale, searching, favoriting items, editing posts, ch
 
 ![Walkthrough](Gifs/yourprice-walkthrough.gif)
 
+## Browse Items for Sale
+
+
+![Walkthrough](Gifs/yourprice-browse.gif)
+
+
 ## Post Item for Sale
 
 ![Post Item for Sale](Gifs/yourprice-post-item.gif)
